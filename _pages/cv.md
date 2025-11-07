@@ -9,11 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
-You can download my [full CV here]{/files/Kibrom B. Girum CV.pdf}.
+You can download my [full CV here](/files/Kibrom B. Girum CV.pdf).
 
 Education
 ======
-* Postdoctoral researcher, [LITO]{https://lito-web.fr/en/}, France
+* Postdoctoral researcher, [LITO](https://lito-web.fr/en/), France
   * Feb. 2021- Aug. 2023
   * **Subject**: Building stratification models for early stage Hodgkin lymphoma patients through the development of radiomic biomarkers and their combination with clinical features.
   * **Supervisors**: Irene Buvat 
@@ -31,7 +31,7 @@ Education
 Work experience
 ======
 
-* Research engineer, [LITO]{https://lito-web.fr/en/}, Orsay, France
+* Research engineer, [LITO](https://lito-web.fr/en/), Orsay, France
   * Oct. 2023 - presnet 
   * **Subject**: Feasibility and development of tools for data augmentation, synthetic image generation and data mining.
   * **Supervisors**: Irene Buvat and GE healtchare
@@ -52,15 +52,15 @@ Work experience
 Skills
 ======
 * Programming languages:
-  * Python * C
-  * C++  * Matlab
+  * Python  C  C++  Matlab
 * Deep learning frameworks
-  * Pytorch  * Tensorflow  * Keras
+  * Pytorch  Tensorflow  Keras
 * Machine learning frameworks
-  * Scikit-learn  * Pandas  * scikit-image  * OpenCV
+  * Scikit-learn  Pandas  scikit-image  OpenCV
 * Others
-  * Docker  * Git, Github  * Qt, VTK, ITK
-       
+  * Docker  Git  Github  Qt  VTK  ITK
+    
+<!--       
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
@@ -82,3 +82,5 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+-->
+
