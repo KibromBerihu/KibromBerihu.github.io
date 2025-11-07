@@ -22,7 +22,7 @@ Education
   * Oct. 2017 - Nov. 2020
   * **Subject**: Artificial intelligence for image-guided prostate brachytherapy procedures
   * **Supervisors**: Alain lalande and Gilles Créhange 
-* MSc in [Computer Vision and Robotics](https://www.vibot.org/), [université bourgogne europe, France](https://www.ube.fr/), [University of Girona, Spain](https://www.udg.edu/en/), and [Heriot-Watt University, Scotland](https://www.hw.ac.uk/).
+* MSc in [Computer Vision and Robotics](https://www.vibot.org/), [université bourgogne europe](https://www.ube.fr/), France, [University of Girona](https://www.udg.edu/en/), Spain, and [Heriot-Watt University](https://www.hw.ac.uk/), Scotland.
   * Sep 2016 - Jun. 2027
 
 * BSc in Electrical and Computer Engineering, [Mekelle Institute of Technology (MIT)](https://www.mu.edu.et/index.php/undergraduate-programs/mekelle-institute-of-technology-undergraduate-programs), Mekelle, Ethiopia
