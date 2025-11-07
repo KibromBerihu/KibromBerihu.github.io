@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-
+You can download my full CV [here](/files/Kibrom B. Girum CV.pdf).
 Education
 ======
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
