@@ -13,19 +13,19 @@ You can download my [full CV here](/files/Kibrom B. Girum CV.pdf).
 
 Education
 ======
-* Postdoctoral researcher, [LITO](https://lito-web.fr/en/), France
+* Postdoctoral researcher, [Laboratory of Translational Imaging in Oncology (LITO)](https://lito-web.fr/en/), France
   * Feb. 2021- Aug. 2023
   * **Subject**: Building stratification models for early stage Hodgkin lymphoma patients through the development of radiomic biomarkers and their combination with clinical features.
   * **Supervisors**: Irene Buvat 
 
-* Ph.D in AI for medical image analysis
+* Ph.D in AI for medical image analysis, University of Bourgogne, [ImViA](https://imvia.ube.fr/), and [CGFL](https://www.cgfl.fr/) Dijon, France
   * Oct. 2017 - Nov. 2020
   * **Subject**: Artificial intelligence for image-guided prostate brachytherapy procedures
   * **Supervisors**: Alain lalande and Gilles Créhange 
-* M.S. in Computer Vision and Robotics (Eramus mundus scholarship) 
+* MSc in [Computer Vision and Robotics](https://www.vibot.org/), [université bourgogne europe, France](https://www.ube.fr/), [University of Girona, Spain](https://www.udg.edu/en/), and [Heriot-Watt University, Scotland](https://www.hw.ac.uk/).
   * Sep 2016 - Jun. 2027
 
-* B.S. in Electrical Engineering - specialized in Electronics and Communication Engineering
+* BSc in Electrical and Computer Engineering, [Mekelle Institute of Technology (MIT)](https://www.mu.edu.et/index.php/undergraduate-programs/mekelle-institute-of-technology-undergraduate-programs), Mekelle, Ethiopia
   * Sep. 2008 - Jul. 2013
 
 Work experience
@@ -52,13 +52,13 @@ Work experience
 Skills
 ======
 * Programming languages:
-  * Python  C  C++  Matlab
+  * Python,  C, C++,  Matlab
 * Deep learning frameworks
-  * Pytorch  Tensorflow  Keras
+  * Pytorch,  Tensorflow,  Keras
 * Machine learning frameworks
-  * Scikit-learn  Pandas  scikit-image  OpenCV
+  * Scikit-learn,  Pandas,  scikit-image,  OpenCV
 * Others
-  * Docker  Git  Github  Qt  VTK  ITK
+  * Docker,  Git,  Github,  Qt,  VTK,  ITK
     
 <!--       
 Publications
