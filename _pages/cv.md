@@ -23,7 +23,7 @@ Education
   * **Subject**: Artificial intelligence for image-guided prostate brachytherapy procedures
   * **Supervisors**: Alain lalande and Gilles Créhange 
 * MSc in [Computer Vision and Robotics](https://www.vibot.org/), [université bourgogne europe](https://www.ube.fr/), France, [University of Girona](https://www.udg.edu/en/), Spain, and [Heriot-Watt University](https://www.hw.ac.uk/), Scotland.
-  * Sep 2016 - Jun. 2027
+  * Sep. 2016 - Jun. 2027
 
 * BSc in Electrical and Computer Engineering, [Mekelle Institute of Technology (MIT)](https://www.mu.edu.et/index.php/undergraduate-programs/mekelle-institute-of-technology-undergraduate-programs), Mekelle, Ethiopia
   * Sep. 2008 - Jul. 2013
@@ -42,8 +42,8 @@ Work experience
     
 * Master thesis intern in Dosimetry Analsis, CGFL, Dijon , France
   * Feb. 2017 - Aug. 2017
-  * Designed and developed a graphical user interface (GUI) to visualize and manage dierent medical imaging modalities
-  * Prposed and developed supervised and unsupervised machine learning methods for detection, classication and segmentation applications on CT images
+  * Designed and developed a graphical user interface (GUI) to visualize and manage different medical imaging modalities
+  * Proposed and developed supervised and unsupervised machine learning methods for detection, classification and segmentation applications on CT images
 
 * Assistance lecturer, Woldia University, Ethiopia
   * Aug. 2013 - Aug. 2015
