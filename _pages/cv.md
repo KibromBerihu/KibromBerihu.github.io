@@ -83,8 +83,9 @@ Service and leadership
 ======
 * Currently signed in to 43 different slack teams
 -->
-Reviews 
-=========
+
+Reviews
+======
 Reviewer for top-tier journals in artificial intelligence and medical imaging:
 * [IEEE Transactions on Medical Imaging](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=42)
 * [IEEE Transactions on Artificial Intelligence](https://cis.ieee.org/publications/ieee-transactions-on-artificial-intelligence)
