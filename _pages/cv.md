@@ -83,4 +83,19 @@ Service and leadership
 ======
 * Currently signed in to 43 different slack teams
 -->
+Reviews 
+=========
+Reviewer for top-tier journals in artificial intelligence and medical imaging:
+* [IEEE Transactions on Medical Imaging](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=42)
+* [IEEE Transactions on Artificial Intelligence](https://cis.ieee.org/publications/ieee-transactions-on-artificial-intelligence)
+* [Artificial Intelligence In Medicine](https://www.sciencedirect.com/journal/artificial-intelligence-in-medicine)
+* [Medical Image Analysis](https://www.sciencedirect.com/journal/medical-image-analysis)
+* [Medical Physics](https://aapm.onlinelibrary.wiley.com/journal/24734209)
+* [Computerized Medical Imaging and Graphics](https://www.sciencedirect.com/journal/computerized-medical-imaging-and-graphics)
+* [Journal, Clinical and Experimental Metastasis](https://link.springer.com/journal/10585)
+* [Scientific Reports](https://www.nature.com/srep/)
+* [Radiation Oncology](https://ro-journal.biomedcentral.com/)
+* [EJNMMI Physics](https://ejnmmiphys.springeropen.com/)
+* [European Journal of Radiology](https://www.sciencedirect.com/journal/european-journal-of-radiology)
+* [Journal of Nuclear Medicine](https://jnm.snmjournals.org/content/66/11)
 
