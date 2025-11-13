@@ -1,7 +1,7 @@
 ---
 title: "18F-FDG PET maximum-intensity projections and artificial intelligence: a win-win combination to easily measure prognostic biomarkers in DLBCL patients"
 collection: talks
-type: "Talk"
+type: "Conference proceedings talk"
 permalink: /talks/2022-12-1-MIPbiomarkers
 venue: "Society of Nuclear Medicine and Molecular Imaging (SNMMI 2022)"
 date: 2022-12-01
