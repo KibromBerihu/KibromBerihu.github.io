@@ -1,7 +1,7 @@
 ---
 title: "Deep generative model-driven multimodal prostate segmentation in radiotherapy"
 collection: talks
-type: "Talk"
+type: "Conference proceedings talk"
 permalink: /talks/2019-10-17-shapemodel
 venue: "Artificial Intelligence in Radiation Therapy, MICCAI 2019 "
 date: 2019-10-17
