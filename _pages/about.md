@@ -17,7 +17,7 @@ I completed the Erasmus Mundus Joint Master’s Program in [Computer Vision and 
 
 I completed my bachelor’s degree in Electrical and Computer Engineering at [Mekelle Institute of Technology (MIT)](https://www.mu.edu.et/index.php/undergraduate-programs/mekelle-institute-of-technology-undergraduate-programs)
 
-Education and Research experinces 
+Education & Research Experiences
 ====
 * Postdoctoral researcher, LITO (Orsay, France), 2021-
 * Ph.D. in Artificial intelligence for image-guided prostate brachytherapy procedures, ImViA, Université de Dijon, Dijon, France, 2017 - 2020
