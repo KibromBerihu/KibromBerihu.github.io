@@ -19,7 +19,7 @@ I completed my bachelor’s degree in Electrical and Computer Engineering at [Me
 
 Education & Research Experiences
 ====
-* Postdoctoral researcher, LITO (Orsay, France), 2021-
+* Postdoctoral researcher, LITO, Orsay, France, 2021 -
 * Ph.D. in Artificial intelligence for image-guided prostate brachytherapy procedures, ImViA, Université de Dijon, Dijon, France, 2017 - 2020
 *  M.Sc. in Computer Vision and Robotics (joint), université bourgogne europe, France; University of Girona, Spain; and Heriot-Watt University, Scotland, 2015-2017
 *  B.Sc. in Electrical and Coputer Engineering, MIT, 2008-2013
